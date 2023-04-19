@@ -1,7 +1,7 @@
-Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/Managed'
-Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/alumne/Desktop/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'C:/Users/alumne/Desktop/Hollow Knight/MonoBleedingEdge/etc'
 Initialize engine version: 2020.2.2f1 (068178b99f32)
-[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/alumne/Desktop/Hollow Knight/hollow_knight_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     4021 MB
     Driver:   26.21.14.4193
 Begin MonoManager ReloadAssembly
-- Completed reload, in  3.050 seconds
+- Completed reload, in  4.330 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -23,14 +23,12 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-The class named 'ConfigManager' is abstract. The script class can't be abstract!
-
-UnloadTime: 7.378100 ms
+UnloadTime: 6.337100 ms
 Graphics tier changed to High
 
 Steam initializing
 
-Steam logged in as planas95
+Steam logged in as Planas95
 
 Selected online subsystem SteamOnlineSubsystem
 
@@ -42,20 +40,86 @@ Loaded saved language code 'ES'
 Restored language code 'ES'
 
 
-Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
-Total: 3.783700 ms (FindLiveObjects: 0.333200 ms CreateObjectMapping: 0.300100 ms MarkObjects: 2.993800 ms  DeleteObjects: 0.155800 ms)
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3814.
+Total: 2.743000 ms (FindLiveObjects: 0.268600 ms CreateObjectMapping: 0.261700 ms MarkObjects: 2.167200 ms  DeleteObjects: 0.044900 ms)
 
 Steam stats received.
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 4.407100 ms
+UnloadTime: 5.608700 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
 
 Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for FK_DEFEAT
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for NEGLECT
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
 
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
@@ -64,8 +128,8 @@ pd.maxHealth: 8 pd.maxHealthBase: 8
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
 
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46222.
-Total: 137.842000 ms (FindLiveObjects: 3.099900 ms CreateObjectMapping: 1.921200 ms MarkObjects: 132.554000 ms  DeleteObjects: 0.266600 ms)
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 46171.
+Total: 168.339100 ms (FindLiveObjects: 4.329700 ms CreateObjectMapping: 2.203400 ms MarkObjects: 161.520200 ms  DeleteObjects: 0.284900 ms)
 
 PlayOneShot was called with a null AudioClip.
 
@@ -186,21 +250,17 @@ Deferring level start (marked as manual).
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
 Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
 
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier1
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
 
 Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier1
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 
-Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 62524.
-Total: 201.889100 ms (FindLiveObjects: 3.297300 ms CreateObjectMapping: 1.963600 ms MarkObjects: 195.436600 ms  DeleteObjects: 1.190500 ms)
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 62473.
+Total: 210.859500 ms (FindLiveObjects: 3.224000 ms CreateObjectMapping: 2.145800 ms MarkObjects: 203.947600 ms  DeleteObjects: 1.541700 ms)
 
 Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
@@ -278,1439 +338,14 @@ Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY<
 
 Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 1147 unused Assets to reduce memory usage. Loaded Objects now: 61227.
-Total: 216.971100 ms (FindLiveObjects: 3.634000 ms CreateObjectMapping: 2.966000 ms MarkObjects: 208.481900 ms  DeleteObjects: 1.888700 ms)
-
 Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
-
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier1
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier1
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 1144 unused Assets to reduce memory usage. Loaded Objects now: 61312.
-Total: 188.927100 ms (FindLiveObjects: 3.956400 ms CreateObjectMapping: 2.394200 ms MarkObjects: 181.191100 ms  DeleteObjects: 1.384100 ms)
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Persistent Bool Item (GG Fall Platform) does not have a PlayMakerFSM attached to read state from.
-
-Deferring level start (marked as manual).
-
-Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Death broadcast event 'SAVE' not implemented!
-
-PlayerData: Could not find field named , check variable name exists and FSM variable string is correct.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-PlayOneShot was called with a null AudioClip.
-
-Death broadcast event 'SAVE' not implemented!
-
-PlayerData: Could not find field named , check variable name exists and FSM variable string is correct.
-
-PlayOneShot was called with a null AudioClip.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerCollisionStay
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Could not find FSM: damages_enemy
-
-Could not find FSM: damages_enemy
-
-Could not find FSM: damages_enemy
-
-Could not find FSM: damages_enemy
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Achievement <b>FK_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-PlayOneShot was called with a null AudioClip.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: health_manager_enemy
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool could not find a copy of Uninfected Hit Pt, Instantiating a new one.
-
-Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
-
-Could not find FSM: health_manager_enemy
-
-Could not find FSM: recoil
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-PlayOneShot was called with a null AudioClip.
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Slug Spear prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost2 prefabs, Instantiating an additional one.
-
-Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Geo Med prefabs, Instantiating an additional one.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Shot Mawlek NoDrip prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Shot Mawlek NoDrip prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-PlayOneShot was called with a null AudioClip.
-
-Boss scene ended
-
-Continuing boss sequence...
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Asset unload force by death in boss sequence.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Persistent Bool Item (GG Fall Platform) does not have a PlayMakerFSM attached to read state from.
-
-Deferring level start (marked as manual).
-
-Unloading 75 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 3552 unused Assets to reduce memory usage. Loaded Objects now: 59214.
-Total: 265.717800 ms (FindLiveObjects: 4.536400 ms CreateObjectMapping: 3.084800 ms MarkObjects: 245.105500 ms  DeleteObjects: 12.990800 ms)
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
-
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier1
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier1
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Recorded statue boss scene. Current: Radiance Boss Scene, Previous: null
 
 Deferring level start (marked as manual).
 
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
 Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
@@ -1718,12 +353,26 @@ Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs,
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -1773,9 +422,11 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -1869,57 +520,2212 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Object Pool attached to GlobalPool has run out of Radiant Nail Comb prefabs, Instantiating an additional one.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
 
-PlayOneShot was called with a null AudioClip.
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
 
-PlayOneShot was called with a null AudioClip.
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
 
-PlayOneShot was called with a null AudioClip.
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-PlayOneShot was called with a null AudioClip.
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
 
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
-PlayOneShot was called with a null AudioClip.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
 Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 PlayOneShot was called with a null AudioClip.
 
-Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Object Pool attached to GlobalPool has run out of Fireball2 Top prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Radiance Boss Scene
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Recorded statue boss scene. Current: Watcher Knights Boss Scene, Previous: Radiance Boss Scene
+
+Asset unload forced by challenging new boss statue
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+
+Unloading 1437 unused Assets to reduce memory usage. Loaded Objects now: 61954.
+Total: 232.754100 ms (FindLiveObjects: 3.981500 ms CreateObjectMapping: 2.477400 ms MarkObjects: 221.860000 ms  DeleteObjects: 4.434900 ms)
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool could not find a copy of Hit Puff Large, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Hit Puff Large prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Audio Player Actor prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
 
 PlayOneShot was called with a null AudioClip.
 
@@ -2021,33 +2827,788 @@ Deferring level start (marked as manual).
 
 Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
 
-Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier1
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
 
 Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier2
-
-Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier1
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 24.313900 ms
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Recorded statue boss scene. Current: Watcher Knights Boss Scene, Previous: Watcher Knights Boss Scene
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Recorded statue boss scene. Current: Watcher Knights Boss Scene, Previous: Watcher Knights Boss Scene
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Counted completion for Statue, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Statue, Total: 44, Completed: 44, Tier: Tier2
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 43, Tier: Tier3
+
+Counted completion for Knight Statue Cage, Total: 44, Completed: 44, Tier: Tier2
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>STAG_STATION_HALF</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRUBFRIEND</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>METAMORPHOSIS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>CHARMED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ENCHANTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BLESSED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HUNTER_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOULFUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WORLDSOUL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>PROTECTED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MASKED</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ATTUNEMENT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>AWAKENING</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>ASCENSION</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>HORNET_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_SOUL_MASTER_DEFEAT</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_BROKEN_VESSEL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DUNG_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>DREAM_FK</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>MANTIS_LORDS</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLLECTOR</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>TEACHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_1</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>COLOSSEUM_3</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NIGHTMARE_GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+
+Recorded statue boss scene. Current: Radiance Boss Scene, Previous: Watcher Knights Boss Scene
+
+Asset unload forced by challenging new boss statue
+
+Deferring level start (marked as manual).
+
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1167 unused Assets to reduce memory usage. Loaded Objects now: 63174.
+Total: 252.284900 ms (FindLiveObjects: 4.371900 ms CreateObjectMapping: 2.130600 ms MarkObjects: 243.318500 ms  DeleteObjects: 2.463000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.911100 ms
 Deferring level start (marked as manual).
 
 
-Unloading 1571 unused Assets to reduce memory usage. Loaded Objects now: 54893.
-Total: 328.392200 ms (FindLiveObjects: 4.927400 ms CreateObjectMapping: 3.150400 ms MarkObjects: 314.249500 ms  DeleteObjects: 6.064400 ms)
+Unloading 1099 unused Assets to reduce memory usage. Loaded Objects now: 56405.
+Total: 219.820300 ms (FindLiveObjects: 3.603400 ms CreateObjectMapping: 2.113900 ms MarkObjects: 211.770400 ms  DeleteObjects: 2.332100 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.616400 ms
+UnloadTime: 0.545600 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
 
 Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for FK_DEFEAT
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for NEGLECT
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
 
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
@@ -2056,8 +3617,8 @@ pd.maxHealth: 8 pd.maxHealthBase: 8
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
 
-Unloading 779 unused Assets to reduce memory usage. Loaded Objects now: 49225.
-Total: 246.871000 ms (FindLiveObjects: 3.649500 ms CreateObjectMapping: 2.416800 ms MarkObjects: 238.107900 ms  DeleteObjects: 2.696000 ms)
+Unloading 519 unused Assets to reduce memory usage. Loaded Objects now: 49328.
+Total: 169.962300 ms (FindLiveObjects: 3.607400 ms CreateObjectMapping: 1.805500 ms MarkObjects: 162.818600 ms  DeleteObjects: 1.730500 ms)
 
 PlayOneShot was called with a null AudioClip.
 
@@ -2066,9 +3627,9 @@ PlayOneShot was called with a null AudioClip.
 PlayOneShot was called with a null AudioClip.
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 614c -> priority: 1 
-  Thread -> id: 6730 -> priority: 1 
-  Thread -> id: 3d44 -> priority: 1 
-  Thread -> id: 23d4 -> priority: 1 
+  Thread -> id: 2778 -> priority: 1 
+  Thread -> id: 6204 -> priority: 1 
+  Thread -> id: 1bd8 -> priority: 1 
+  Thread -> id: 68bc -> priority: 1 
 Shutting down Steam API.
 
